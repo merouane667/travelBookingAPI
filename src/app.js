@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 const username = 'travelbooking';
-const password = 't96Rnsimax3Iq5wgSlNx8t7s6YFCL5c3yOjdoxS7DrDUIa04WEtSHXAPDjbYHZjsnDOtN6FNDVYSACDbSmKi0w==';
+const password = 'OQxhh4VD7qechtwzuW8V4pdvYgGxpbWVP4FB6Qk56TfHXlsxDQVLFm34S9fkGS2kbBV8PcWjg5fTACDbvZIiLw==';
 const host = 'travelbooking.mongo.cosmos.azure.com';
 const port = '10255';
 const database = 'travelBooking';
