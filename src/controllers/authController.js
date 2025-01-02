@@ -1,4 +1,4 @@
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const Passenger = require('../models/passengerModel');
 const { secretKey } = require('../config');
